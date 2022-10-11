@@ -1,1 +1,1 @@
-print("omarrrrrrrrr")
+print("omar")
